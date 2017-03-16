@@ -1,0 +1,66 @@
+
+
+Instructions for obtaining data from Google Code Jam
+1) Open "google_code_jam_v2.py" and "google code jam" website.
+2) Determine the Competition and Round for which you are interested in obtaining solutions.
+3) Open the solution page for these inputs and obtain the page number from the browser.
+4) In "google_code_jam_v2.py", go to the inputs on line 172.
+5) Enter the solution webpage name, and the start/end numbers for the rankings you want.
+6) Save and run the python program. 
+7) The following should be created: i)Round folders, ii)Unpacked solutions, iii)".csv" file with solution descriptions.
+
+
+Instructions for obtaining software metrics from each solution of a particular Round
+1) Open "M2 Resource Standard Metrics".
+2) Use ordered buttons in "Guided Process Steps".
+3) Use "default" for "1", then go to "2" and "Clear" files in "RSM Input File List", and "Clear Tree" in "Selection Tree of Path or Files".
+4) Change directory to folder of interest (or "Set Path"), then ensure all extensions are listed.
+5) Press "Acquire Files", then "Files To List" (ensure "Append" box is checked, below), then "Clear List".  Repeat this to load all files, from all problems, for the particular Round. 
+6) Use "3" and "Set" the new file name in "RSM Output File" for HTML.
+7) Use "4" "M2 - Verbose Source Code Metrics (HTML)", then "5" to "Execute".
+8) Do this once for "M2 - Verbose Source Code Metrics", then set new file and execute for "M2- Source Code Functional Metrics & Analysis".
+
+
+Instructions for capturing solution metrics in a .csv file
+1) Open "Script_3.0 html2csv.r".
+2) Change working directories and file names for both the "verbose source" and the "functional" problem metrics.
+3) Run script for both types of metrics.
+4) Ensure correct numbers before saving to .csv.
+
+
+Instructions for combining descriptive and problem data(.csv) files
+1) Open "Script_4.0 combineRndData.r" , and save to the Problem/Round folder of interest.
+2) Change working directories and problem file names, appropriately.
+3) Load descriptive file.
+4) Merge "verbose source" and "functional" metric files for each problem.
+5) Row-bind all problem data together.
+6) Merge descriptive file data with problem metric data.
+
+
+
+Instructions for coverting file solutions into executable programs
+
+
+Instructions for obtaining run-time metrics from executable programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END

@@ -1,0 +1,445 @@
+SolIndex,Name ,Country,Lang,Yr,Round,Rank,Problem,Size,hr,min,sec,Rqmts,,LOC,eLOC,Preprocessor,Macros,Paren,Brace,Bracket,FunCnt,FunAvgELOC,FunAvgIntrfc,FunAvgCyc
+1,Eryx,Poland,C++,2012,3,2,Lost Password,Small,1,56,56,,,108,98,39,38,161,15,27,8,6.13,1.75,3.38
+2,Eryx,Poland,C++,2012,3,2,Quality Food,Large,1,45,36,,,149,131,38,28,169,25,19,7,11.86,2.57,4.57
+3,Eryx,Poland,C++,2012,3,2,Quality Food,Small,1,35,11,,,168,148,39,29,193,30,21,9,10.78,2.22,4.33
+4,Eryx,Poland,C++,2012,3,2,Havannah,Large,0,37,27,,,184,168,40,30,214,25,76,13,8.69,3.08,5.23
+5,Eryx,Poland,C++,2012,3,2,Havannah,Small,0,36,18,,,184,168,40,30,214,25,76,13,8.69,3.08,5.23
+6,Eryx,Poland,C++,2012,3,2,Perfect Game,Large,0,8,6,,,103,94,39,29,157,17,21,8,5.75,1.75,2.75
+7,Eryx,Poland,C++,2012,3,2,Perfect Game,Small,0,6,49,,,103,94,39,29,157,17,21,8,5.75,1.75,2.75
+8,SnapDragon,Canada,C++,2012,3,3,Lost Password,Small,2,7,13,,,40,35,3,0,28,5,4,2,15,5.5,10.5
+9,SnapDragon,Canada,C++,2012,3,3,Quality Food,Large,1,54,0,,,73,60,3,0,61,18,8,3,18,1.67,7
+10,SnapDragon,Canada,C++,2012,3,3,Quality Food,Small,1,51,19,,,67,55,3,0,51,16,8,3,16.33,1.67,6
+11,SnapDragon,Canada,C++,2012,3,3,Havannah,Large,1,0,2,,,91,77,2,0,40,22,47,3,23,3,14.67
+12,SnapDragon,Canada,C++,2012,3,3,Havannah,Small,0,57,58,,,91,77,2,0,40,22,47,3,23,3,14.67
+13,SnapDragon,Canada,C++,2012,3,3,Perfect Game,Large,0,15,3,,,26,22,3,0,12,4,4,2,8,2,4
+14,SnapDragon,Canada,C++,2012,3,3,Perfect Game,Small,0,14,54,,,26,22,3,0,12,4,4,2,8,2,4
+15,Ahyangyi,China,C++,2012,3,6,Lost Password,Small,1,44,47,,,101,75,2,0,43,13,55,3,21.67,4,14.33
+16,Ahyangyi,China,C++,2012,3,6,Quality Food,Large,2,16,1,,,78,53,3,0,22,13,13,4,9.5,1.75,4
+17,Ahyangyi,China,C++,2012,3,6,Quality Food,Small,2,12,42,,,68,45,3,0,16,12,13,3,10.33,1.67,5
+18,Ahyangyi,China,C++,2012,3,6,Havannah,Large,1,14,54,,,211,164,2,0,94,27,140,10,13.9,3.2,8.8
+19,Ahyangyi,China,C++,2012,3,6,Havannah,Small,1,12,53,,,211,164,2,0,94,27,140,10,13.9,3.2,8.8
+20,Ahyangyi,China,C++,2012,3,6,Perfect Game,Large,0,30,5,,,35,28,2,0,16,4,5,2,9.5,2.5,4
+21,Ahyangyi,China,C++,2012,3,6,Perfect Game,Small,0,30,21,,,35,28,2,0,16,4,5,2,9.5,2.5,4
+22,squark,China,C++,2012,3,7,Lost Password,Small,1,15,31,,,104,93,20,6,44,10,60,1,66,1,25
+23,squark,China,C++,2012,3,7,Quality Food,Large,0,49,53,,,83,70,20,6,31,12,13,2,29,2,5
+24,squark,China,C++,2012,3,7,Quality Food,Small,0,48,34,,,83,70,20,6,31,12,13,2,29,2,5
+25,squark,China,C++,2012,3,7,Havannah,Large,2,16,58,,,160,143,20,6,67,20,98,2,55,2,21
+26,squark,China,C++,2012,3,7,Havannah,Small,2,16,22,,,160,143,20,6,67,20,98,2,55,2,21
+27,squark,China,C++,2012,3,7,Perfect Game,Large,0,13,5,,,55,48,20,6,26,6,15,1,25,1,8
+28,squark,China,C++,2012,3,7,Perfect Game,Small,0,12,41,,,55,48,20,6,26,6,15,1,25,1,8
+29,meret,Poland,C++,2012,3,12,Lost Password,Small,1,32,51,,,84,72,33,12,50,12,14,2,16,1,4
+30,meret,Poland,C++,2012,3,12,Quality Food,Large,1,15,26,,,159,135,33,12,83,29,15,7,13,2.57,3.86
+31,meret,Poland,C++,2012,3,12,Quality Food,Small,1,9,9,,,153,131,33,12,81,27,15,7,12.43,2.57,3.57
+32,meret,Poland,C++,2012,3,12,Havannah,Small,2,8,31,,,209,167,33,12,121,52,14,13,9.62,3.08,4.92
+33,meret,Poland,C++,2012,3,12,Perfect Game,Large,0,16,33,,,76,66,33,12,44,11,3,3,8.67,2,2.67
+34,meret,Poland,C++,2012,3,12,Perfect Game,Small,0,15,43,,,76,66,33,12,44,11,3,3,8.67,2,2.67
+35,Eryx,Poland,sh,2012,Qual,2286,Speaking in Tongues,Small,9,51,35,,,,,,,,,,,,,
+36,Eryx,Poland,C++,2012,Qual,2286,Dancing With the Googlers,Small,10,12,20,,,109,100,38,38,160,17,30,8,6.75,1.88,3
+37,Eryx,Poland,C++,2012,Qual,2286,Dancing With the Googlers,Large,10,13,22,,,109,100,38,38,160,17,30,8,6.75,1.88,3
+38,Eryx,Poland,C++,2012,Qual,2286,Recycled Numbers,Small,10,23,15,,,108,97,38,29,151,19,4,9,5.67,2.11,2.44
+39,Eryx,Poland,C++,2012,Qual,2286,Recycled Numbers,Large,10,23,52,,,108,97,38,29,151,19,4,9,5.67,2.11,2.44
+40,Eryx,Poland,C++,2012,1B,114,Safety in Numbers,Small,0,7,18,,,114,103,39,29,162,19,10,9,6,1.78,2.67
+41,Eryx,Poland,C++,2012,1B,114,Safety in Numbers,Large,0,8,31,,,114,103,39,29,162,19,10,9,6,1.78,2.67
+42,Eryx,Poland,C++,2012,1B,114,"Tide Goes In, Tide Goes Out",Small,0,44,8,,,164,147,41,30,209,25,38,12,7.67,3.25,4
+43,Eryx,Poland,C++,2012,1B,114,"Tide Goes In, Tide Goes Out",Large,0,45,9,,,164,147,41,30,209,25,38,12,7.67,3.25,4
+44,Eryx,Poland,C++,2012,1B,114,Equal Sums,Small,0,55,50,,,122,109,40,30,173,24,37,8,7.38,1.75,3.63
+45,Eryx,Poland,C++,2012,2,10,Swinging Wild,Small,0,12,26,,,109,98,398,29,157,19,23,8,6.13,1.75,2.88
+46,Eryx,Poland,C++,2012,2,10,Swinging Wild,Large,0,13,29,,,109,98,398,29,157,19,23,8,6.13,1.75,2.88
+47,Eryx,Poland,C++,2012,2,10,Aerobics,Small,0,43,21,,,121,108,39,29,176,23,23,10,5.9,1.9,2.8
+48,Eryx,Poland,C++,2012,2,10,Aerobics,Large,1,59,18,,,122,110,39,29,177,22,36,10,6,1.9,2.8
+49,Eryx,Poland,C++,2012,2,10,Mountain View,Small,1,41,31,,,126,113,39,29,177,24,30,9,9,2.11,3.22
+50,Eryx,Poland,C++,2012,2,10,Mountain View,Large,1,45,9,,,128,115,39,29,179,24,35,9,7,2.11,3.33
+51,Eryx,Poland,C++,2012,2,10,Descending in the Dark,Small,1,10,54,,,150,133,39,29,197,25,73,10,8.3,2.2,4.4
+52,SnapDragon,Canada,C++,2012,Qual,19,Speaking in Tongues,Small,3,52,14,,,29,25,3,0,17,4,13,2,10,2,4.5
+53,SnapDragon,Canada,C++,2012,Qual,19,Dancing With the Googlers,Small,4,0,33,,,18,14,1,0,10,5,0,1,12,1,5
+54,SnapDragon,Canada,C++,2012,Qual,19,Dancing With the Googlers,Large,4,1,50,,,18,14,1,0,10,5,0,1,12,1,5
+55,SnapDragon,Canada,C++,2012,Qual,19,Recycled Numbers,Small,4,10,8,,,18,15,1,0,7,4,0,1,13,1,7
+56,SnapDragon,Canada,C++,2012,Qual,19,Recycled Numbers,Large,4,11,51,,,18,15,1,0,7,4,0,1,13,1,7
+57,SnapDragon,Canada,C++,2012,Qual,19,Hall of Mirrors,Small,5,16,29,,,72,62,2,0,45,15,21,1,57,3,37
+58,SnapDragon,Canada,C++,2012,Qual,19,Hall of Mirrors,Large,5,25,45,,,72,62,2,0,45,15,21,1,57,3,37
+59,SnapDragon,Canada,C++,2012,1A,1,Password Problem,Small,0,14,32,,,18,15,2,0,13,3,3,1,11,1,4
+60,SnapDragon,Canada,C++,2012,1A,1,Password Problem,Large,0,15,32,,,18,15,2,0,13,3,3,1,11,1,4
+61,SnapDragon,Canada,C++,2012,1A,1,Kingdom Rush,Small,0,27,52,,,37,31,3,0,12,6,15,1,26,2,15
+62,SnapDragon,Canada,C++,2012,1A,1,Kingdom Rush,Large,0,29,7,,,37,31,3,0,12,6,15,1,26,2,15
+63,SnapDragon,Canada,C++,2012,1A,1,Cruise Control,Small,1,13,10,,,86,70,5,0,61,18,57,3,20,3.67,13.33
+64,SnapDragon,Canada,C++,2012,1A,1,Cruise Control,Large,1,14,11,,,86,70,5,0,61,18,57,3,20,3.67,13.33
+65,SnapDragon,Canada,C++,2012,2,19,Swinging Wild,Small,0,14,47,,,22,19,3,0,11,3,19,1,14,1,8
+66,SnapDragon,Canada,C++,2012,2,19,Swinging Wild,Large,0,15,41,,,22,19,3,0,11,3,19,1,14,1,8
+67,SnapDragon,Canada,C++,2012,2,19,Aerobics,Small,1,56,38,,,37,32,4,0,15,5,30,1,26,1,9
+68,SnapDragon,Canada,C++,2012,2,19,Aerobics,Large,1,57,46,,,37,32,4,0,15,5,30,1,26,1,9
+69,SnapDragon,Canada,C++,2012,2,19,Mountain View,Small,1,23,35,,,46,41,2,0,36,8,17,2,18,5.5,8.5
+70,SnapDragon,Canada,C++,2012,2,19,Mountain View,Large,1,24,56,,,46,41,2,0,36,8,17,2,18,5.5,8.5
+71,SnapDragon,Canada,C++,2012,2,19,Descending in the Dark,Small,2,22,55,,,74,64,7,0,68,12,29,2,26,2.5,12
+72,Ahyangyi,China,C++,2012,Qual,9599,Speaking in Tongues,Small,5,23,22,,,22,18,1,0,12,2,8,1,13,1,6
+73,Ahyangyi,China,C++,2012,Qual,9599,Dancing With the Googlers,Small,5,39,9,,,39,33,1,0,17,3,0,1,30,1,9
+74,Ahyangyi,China,C++,2012,Qual,9599,Dancing With the Googlers,Large,5,39,44,,,39,33,1,0,17,3,0,1,30,1,9
+75,Ahyangyi,China,C++,2012,1B,131,Safety in Numbers,Small,0,24,10,,,,,,,,,,,,,
+76,Ahyangyi,China,C++,2012,1B,131,Safety in Numbers,Large,0,24,38,,,,,,,,,,,,,
+77,Ahyangyi,China,C++,2012,1B,131,"Tide Goes In, Tide Goes Out",Small,1,10,7,,,89,65,3,0,51,12,54,3,17.67,5.33,8.67
+78,Ahyangyi,China,C++,2012,1B,131,"Tide Goes In, Tide Goes Out",Large,1,10,38,,,89,65,3,0,51,12,54,3,17.67,5.33,8.67
+79,Ahyangyi,China,C++,2012,1B,131,Equal Sums,Small,0,38,7,,,65,49,2,0,31,8,6,1,43,3,15
+80,Ahyangyi,China,C++,2012,2,108,Swinging Wild,Small,0,16,47,,,35,27,2,0,14,4,17,1,20,1,9
+81,Ahyangyi,China,C++,2012,2,108,Swinging Wild,Large,0,17,19,,,35,27,2,0,14,4,17,1,20,1,9
+82,Ahyangyi,China,C++,2012,2,108,Aerobics,Small,0,45,17,,,40,33,2,0,35,4,23,1,24,1,8
+83,Ahyangyi,China,C++,2012,2,108,Mountain View,Small,1,44,54,,,59,41,2,0,28,9,17,3,10,3.67,4.33
+84,Ahyangyi,China,C++,2012,2,108,Mountain View,Large,1,45,30,,,59,41,2,0,28,9,17,3,10,3.67,4.33
+85,Ahyangyi,China,C++,2012,2,108,Descending in the Dark,Small,2,28,39,,,120,95,4,0,65,13,78,5,14.8,2.8,8.8
+86,squark,China,C++,2012,Qual,1141,Speaking in Tongues,Small,3,52,35,,,47,44,2,0,22,3,21,1,40,1,14
+87,squark,China,C++,2012,Qual,1141,Dancing With the Googlers,Small,4,4,0,,,32,29,1,0,14,3,0,1,28,1,8
+88,squark,China,C++,2012,Qual,1141,Dancing With the Googlers,Large,4,4,55,,,32,29,1,0,14,3,0,1,28,1,8
+89,squark,China,C++,2012,Qual,1141,Recycled Numbers,Small,4,27,43,,,38,34,2,0,20,4,12,1,30,1,12
+90,squark,China,C++,2012,Qual,1141,Recycled Numbers,Large,4,29,16,,,38,34,2,0,20,4,12,1,30,1,12
+91,squark,China,C++,2012,1A,4,Password Problem,Small,0,11,57,,,48,43,20,6,22,4,7,1,21,1,4
+92,squark,China,C++,2012,1A,4,Password Problem,Large,0,12,37,,,48,43,20,6,22,4,7,1,21,1,4
+93,squark,China,C++,2012,1A,4,Kingdom Rush,Small,0,26,0,,,68,60,20,6,28,7,11,1,37,1,11
+94,squark,China,C++,2012,1A,4,Kingdom Rush,Large,0,27,5,,,68,60,20,6,28,7,11,1,37,1,11
+95,squark,China,C++,2012,1A,4,Cruise Control,Small,1,41,15,,,179,148,20,6,71,30,81,6,19.33,3,8.33
+96,squark,China,C++,2012,1A,4,Cruise Control,Large,1,42,12,,,179,148,20,6,71,30,81,6,19.33,3,8.33
+97,squark,China,C++,2012,2,50,Swinging Wild,Small,0,14,22,,,58,54,20,6,30,3,22,1,31,1,11
+98,squark,China,C++,2012,2,50,Swinging Wild,Large,0,15,40,,,58,54,20,6,30,3,22,1,31,1,11
+99,squark,China,C++,2012,2,50,Aerobics,Small,1,55,55,,,132,111,20,15,60,25,96,3,28,2,6.67
+100,squark,China,C++,2012,2,50,Aerobics,Large,1,56,26,,,132,111,20,15,60,25,96,3,28,2,6.67
+101,squark,China,C++,2012,2,50,Mountain View,Small,0,37,36,,,68,61,20,6,33,6,21,2,18.5,2.5,6
+102,squark,China,C++,2012,2,50,Mountain View,Large,0,39,26,,,68,61,20,6,33,6,21,2,18.5,2.5,6
+103,meret,Poland,C++,2012,Qual,5091,Speaking in Tongues,Small,13,2,42,,,83,71,33,12,49,12,10,1,25,1,8
+104,meret,Poland,C++,2012,Qual,5091,Dancing With the Googlers,Small,13,12,31,,,75,65,33,12,39,11,0,2,14.5,1,7
+105,meret,Poland,C++,2012,Qual,5091,Dancing With the Googlers,Large,13,12,53,,,75,65,33,12,39,11,0,2,14.5,1,7
+106,meret,Poland,C++,2012,Qual,5091,Recycled Numbers,Small,23,24,32,,,67,59,33,12,42,8,0,3,7.33,1.33,3.33
+107,meret,Poland,C++,2012,Qual,5091,Recycled Numbers,Large,23,24,56,,,67,59,33,12,42,8,0,3,7.33,1.33,3.33
+108,meret,Poland,C++,2012,1B,1344,Safety in Numbers,Small,1,44,56,,,77,67,33,12,48,11,4,2,15.5,1,5
+109,meret,Poland,C++,2012,1B,1344,Safety in Numbers,Large,1,45,25,,,77,67,33,12,48,11,4,2,15.5,1,5
+110,meret,Poland,C++,2012,1B,1344,Equal Sums,Small,1,59,21,,,107,90,33,12,62,20,10,5,9.6,1.6,3.6
+111,meret,Poland,C++,2012,1C,3,Diamond Inheritance,Small,0,26,38,,,82,71,33,12,48,11,8,3,10,1.33,4
+112,meret,Poland,C++,2012,1C,3,Diamond Inheritance,Large,0,27,41,,,82,71,33,12,48,11,8,3,10,1.33,4
+113,meret,Poland,C++,2012,1C,3,Out of Gas,Small,1,27,22,,,86,76,33,12,58,11,14,3,13,2.33,3.33
+114,meret,Poland,C++,2012,1C,3,Out of Gas,Large,1,27,50,,,86,76,33,12,58,11,14,3,13,2.33,3.33
+115,meret,Poland,C++,2012,1C,3,Box Factory,Small,1,21,2,,,107,90,34,12,55,20,32,2,22.5,1,10
+116,meret,Poland,C++,2012,1C,3,Box Factory,Large,1,22,9,,,107,90,34,12,55,20,32,2,22.5,1,10
+117,meret,Poland,C++,2012,2,246,Swinging Wild,Small,1,16,46,,,69,61,33,12,43,8,18,2,10,1.5,5
+118,meret,Poland,C++,2012,2,246,Swinging Wild,Large,1,17,29,,,69,61,33,12,43,8,18,2,10,1.5,5
+119,meret,Poland,C++,2012,2,246,Mountain View,Small,0,54,6,,,82,11,33,12,50,12,12,3,10.33,2,3.33
+120,meret,Poland,C++,2012,2,246,Mountain View,Large,0,55,29,,,82,11,33,12,50,12,12,3,10.33,2,3.33
+121,Farmer.John,Hong Kong,C++,2012,Qual,2576,Speaking in Tongues,Small,11,4,57,,,28,26,4,10,16,2,8,1,16,1,1
+122,Farmer.John,Hong Kong,C++,2012,Qual,2576,Dancing With the Googlers,Small,11,29,48,,,26,23,4,1,17,3,21,1,16,1,3
+123,Farmer.John,Hong Kong,C++,2012,Qual,2576,Dancing With the Googlers,Large,11,30,25,,,26,23,4,1,17,3,21,1,16,1,3
+124,Farmer.John,Hong Kong,C++,2012,Qual,2576,Recycled Numbers,Small,11,47,39,,,31,27,6,1,24,4,2,1,17,1,6
+125,Farmer.John,Hong Kong,C++,2012,Qual,2576,Recycled Numbers,Large,11,55,5,,,31,27,6,1,24,4,2,1,17,1,6
+126,Farmer.John,Hong Kong,C++,2012,1C,40,Diamond Inheritance,Small,,13,43,,,51,46,5,1,26,5,28,1,36,1,9
+127,Farmer.John,Hong Kong,C++,2012,1C,40,Diamond Inheritance,Large,,18,5,,,51,46,5,1,26,5,28,1,36,1,9
+128,Farmer.John,Hong Kong,C++,2012,1C,40,Out of Gas,Small,1,10,16,,,61,54,5,1,34,7,17,4,11,3.5,2.75
+129,Farmer.John,Hong Kong,C++,2012,1C,40,Box Factory,Small,1,31,46,,,42,36,6,2,22,6,32,1,27,1,6
+130,Farmer.John,Hong Kong,C++,2012,1C,40,Box Factory,Large,1,32,52,,,42,36,6,2,22,6,32,1,27,1,6
+131,Farmer.John,Hong Kong,C++,2012,2,475,Swinging Wild,Small,1,11,17,,,31,27,3,1,15,4,18,1,20,1,4
+132,Farmer.John,Hong Kong,C++,2012,2,475,Swinging Wild,Large,1,12,23,,,31,27,3,1,15,4,18,1,20,1,4
+133,Farmer.John,Hong Kong,C++,2012,2,475,Aerobics,Small,1,37,48,,,60,51,3,1,26,9,33,2,22.5,2.5,5.5
+134,Farmer.John,Hong Kong,C++,2012,2,475,Aerobics,Large,1,41,38,,,61,52,3,1,28,9,33,2,22.5,2.5,5.5
+135,Farmer.John,Hong Kong,C++,2012,3,22,Perfect Game,Small,,19,10,,,44,38,4,1,27,7,30,2,14,2,3
+136,Farmer.John,Hong Kong,C++,2012,3,22,Perfect Game,Large,,20,13,,,44,38,4,1,27,7,30,2,14,2,3
+137,Farmer.John,Hong Kong,C++,2012,3,22,Quality Food,Small,1,33,24,,,50,44,4,2,24,6,26,2,18.5,1.5,3
+138,Farmer.John,Hong Kong,C++,2012,3,22,Quality Food,Large,1,54,20,,,55,51,5,1,29,4,41,2,20.5,2,4
+139,Farmer.John,Hong Kong,C++,2012,3,22,Lost Password,Small,,57,59,,,67,59,4,2,32,8,28,3,17.33,2.67,4.67
+140,gawry,Poland,C++,2012,Qual,138,Speaking in Tongues,Small,17,20,38,,,43,40,11,1,29,4,9,2,13,1,4
+141,gawry,Poland,C++,2012,Qual,138,Dancing With the Googlers,Small,17,51,10,,,49,45,11,10,50,4,19,2,15,1,7
+142,gawry,Poland,C++,2012,Qual,138,Dancing With the Googlers,Small,17,54,21,,,49,45,11,10,50,4,19,2,15,1,7
+143,gawry,Poland,C++,2012,Qual,138,Recycled Numbers,Small,18,12,56,,,59,53,12,2,39,7,6,2,19,1,7
+144,gawry,Poland,C++,2012,Qual,138,Recycled Numbers,Large,18,14,31,,,59,53,12,2,39,7,6,2,19,1,7
+145,gawry,Poland,C++,2012,Qual,138,Hall of Mirrors,Small,22,48,1,,,100,90,14,3,94,13,13,5,14.2,3.2,8.6
+146,gawry,Poland,C++,2012,Qual,138,Hall of Mirrors,Large,22,50,20,,,100,90,14,3,94,13,13,5,14.2,3.2,8.6
+147,gawry,Poland,C++,2012,1B,601,Safety in Numbers,Small,1,13,9,,,55,50,12,1,41,5,6,2,17,1,4
+148,gawry,Poland,C++,2012,1B,601,Safety in Numbers,Large,1,14,29,,,55,50,12,1,41,5,6,2,17,1,4
+149,gawry,Poland,C++,2012,1B,601,"Tide Goes In, Tide Goes Out",Small,2,25,20,,,110,96,15,3,91,14,42,6,11.83,3.67,5
+150,gawry,Poland,C++,2012,1B,601,"Tide Goes In, Tide Goes Out",Large,2,26,51,,,110,96,15,3,91,14,42,6,11.83,3.67,5
+151,gawry,Poland,C++,2012,2,52,Swinging Wild,Small,,13,15,,,57,52,15,3,38,5,21,2,16.5,1,7
+152,gawry,Poland,C++,2012,2,52,Swinging Wild,Large,,14,34,,,57,52,15,3,38,5,21,2,16.5,1,7
+153,gawry,Poland,C++,2012,2,52,Aerobics,Small,1,53,52,,,79,70,14,2,59,9,37,4,13,1.5,5.25
+154,gawry,Poland,C++,2012,2,52,Aerobics,Large,1,58,37,,,79,70,14,2,59,9,37,4,13,1.5,5.25
+155,gawry,Poland,C++,2012,2,52,Mountain View,Small,1,0,24,,,75,67,14,2,58,10,30,3,16.33,2,6
+156,gawry,Poland,C++,2012,2,52,Mountain View,Large,1,3,6,,,76,68,14,2,60,10,31,3,16.67,2,6.33
+157,gawry,Poland,C++,2012,3,23,Perfect Game,Small,,15,52,,,53,49,13,1,41,4,21,3,10.67,2,3
+158,gawry,Poland,C++,2012,3,23,Perfect Game,Large,,16,40,,,53,49,13,1,41,4,21,3,10.67,2,3
+159,gawry,Poland,C++,2012,3,23,Quality Food,Small,1,46,11,,,66,60,13,1,50,6,12,2,20,1,7.5
+160,gawry,Poland,C++,2012,3,23,Quality Food,Large,2,9,45,,,85,77,13,1,61,8,15,2,28,1,8
+161,gawry,Poland,C++,2012,3,23,Lost Password,Small,,46,22,,,82,75,13,10,60,7,42,4,13.75,1.5,6.25
+162,Dlougach,Russia,C++,2012,Qual,3093,Speaking in Tongues,Small,13,29,24,,,22,19,2,0,11,3,7,1,15,1,4
+163,Dlougach,Russia,C++,2012,Qual,3093,Dancing With the Googlers,Small,13,54,44,,,51,41,3,0,21,12,30,1,37,1,15
+164,Dlougach,Russia,C++,2012,Qual,3093,Dancing With the Googlers,Large,13,55,32,,,51,41,3,0,21,12,30,1,37,1,15
+165,Dlougach,Russia,C++,2012,Qual,3093,Recycled Numbers,Small,14,9,35,,,33,28,3,0,9,5,0,1,24,1,8
+166,Dlougach,Russia,C++,2012,Qual,3093,Recycled Numbers,Large,14,9,35,,,33,28,3,0,9,5,0,1,24,1,8
+167,Dlougach,Russia,C++,2012,1B,25,Safety in Numbers,Small,,12,55,,,42,36,6,0,21,8,4,1,28,1,8
+168,Dlougach,Russia,C++,2012,1B,25,Safety in Numbers,Large,,13,37,,,42,36,6,0,21,8,4,1,28,1,8
+169,Dlougach,Russia,C++,2012,1B,25,"Tide Goes In, Tide Goes Out",Small,,48,33,,,74,63,5,0,38,13,38,2,28.5,2.5,9
+170,Dlougach,Russia,C++,2012,1B,25,"Tide Goes In, Tide Goes Out",Large,,49,28,,,74,63,5,0,38,13,38,2,28.5,2.5,9
+171,Dlougach,Russia,C++,2012,1B,25,Equal Sums,Small,1,1,35,,,55,45,6,0,25,11,11,1,38,1,13
+172,Dlougach,Russia,C++,2012,1B,25,Equal Sums,Large,1,56,40,,,109,95,8,0,60,15,21,2,39,2.5,9
+173,Dlougach,Russia,C++,2012,2,293,Swinging Wild,Small,2,22,21,,,42,36,4,0,30,6,8,1,31,1,10
+174,Dlougach,Russia,C++,2012,2,293,Swinging Wild,Large,2,22,57,,,42,36,4,0,30,6,8,1,31,1,10
+175,Dlougach,Russia,C++,2012,2,293,Mountain View,Small,1,52,49,,,52,46,4,0,24,7,9,2,17.5,4,5
+176,Dlougach,Russia,C++,2012,2,293,Mountain View,Large,1,54,24,,,52,46,4,0,24,7,9,2,17.5,4,5
+177,Dlougach,Russia,C++,2012,3,24,Perfect Game,Small,,27,11,,,33,26,3,0,12,7,4,2,10.5,2,3.5
+178,Dlougach,Russia,C++,2012,3,24,Perfect Game,Large,,28,36,,,33,26,3,0,12,7,4,2,10.5,2,3.5
+179,Dlougach,Russia,C++,2012,3,24,Quality Food,Small,1,35,5,,,100,85,3,0,60,17,10,6,12.5,2.83,3.83
+180,Dlougach,Russia,C++,2012,3,24,Quality Food,Large,1,35,37,,,100,85,3,0,60,17,10,6,12.5,2.83,3.83
+181,Dlougach,Russia,C++,2012,3,24,Lost Password,Small,2,12,35,,,185,159,6,9,84,30,61,8,14.75,3.25,4.13
+182,g201513,China,C++,2012,Qual,111,Speaking in Tongues,Small,15,14,9,,,21,18,1,0,12,3,9,1,13,1,4
+183,g201513,China,C++,2012,Qual,111,Dancing With the Googlers,Small,15,37,1,,,23,19,1,0,13,4,0,1,17,1,8
+184,g201513,China,C++,2012,Qual,111,Speaking in Tongues,Large,15,37,42,,,23,19,1,0,13,4,0,1,17,1,8
+185,g201513,China,C++,2012,Qual,111,Recycled Numbers,Small,15,59,27,,,30,25,2,0,16,5,2,1,20,1,8
+186,g201513,China,C++,2012,Qual,111,Recycled Numbers,Large,16,0,34,,,30,25,2,0,16,5,2,1,20,1,8
+187,g201513,China,C++,2012,Qual,111,Hall of Mirrors,Small,20,36,41,,,102,85,4,0,82,22,17,5,15,5,7.8
+188,g201513,China,C++,2012,Qual,111,Hall of Mirrors,Large,20,41,6,,,103,86,4,0,83,22,17,5,15,5,7.8
+189,g201513,China,C++,2012,1A,94,Password Problem,Small,,17,39,,,29,25,3,0,19,4,9,1,16,1,5
+190,g201513,China,C++,2012,1A,94,Password Problem,Large,,18,37,,,29,25,3,0,19,4,9,1,16,1,5
+191,g201513,China,C++,2012,1A,94,Kingdom Rush,Small,,35,18,,,46,38,2,0,22,8,14,1,32,1,14
+192,g201513,China,C++,2012,1A,94,Kingdom Rush,Large,,38,0,,,46,38,2,0,22,8,14,1,32,1,14
+193,g201513,China,C++,2012,2,99,Swinging Wild,Small,,18,59,,,31,26,3,0,19,5,22,1,19,1,8
+194,g201513,China,C++,2012,2,99,Swinging Wild,Large,,20,30,,,31,26,3,0,19,5,22,1,19,1,8
+195,g201513,China,C++,2012,2,99,Aerobics,Small,1,57,9,,,61,52,4,0,33,9,25,4,9.75,3.25,5.25
+196,g201513,China,C++,2012,2,99,Aerobics,Large,1,58,27,,,61,52,4,0,33,9,25,4,9.75,3.25,5.25
+197,g201513,China,C++,2012,2,99,Mountain View,Small,1,29,55,,,51,44,2,0,37,8,14,4,9,5,4.25
+198,g201513,China,C++,2012,2,99,Descending in the Dark,Small,2,17,27,,,74,63,4,0,60,13,43,3,16.33,4.33,7.67
+199,g201513,China,C++,2012,3,26,Perfect Game,Small,,13,54,,,47,42,12,0,18,6,5,2,10.5,2.5,3.5
+200,g201513,China,C++,2012,3,26,Perfect Game,Large,,17,46,,,47,42,12,0,18,6,5,2,10.5,2.5,3.5
+201,g201513,China,C++,2012,3,26,Quality Food,Small,1,25,5,,,71,63,12,9,36,9,13,3,14,3.67,5.67
+202,g201513,China,C++,2012,3,26,Lost Password,Small,2,18,10,,,100,90,12,0,51,10,44,4,16.75,4,8.75
+203,MrRoach,China,C++,2012,Qual,197,Speaking in Tongues,Small,,27,33,,,23,20,4,0,7,4,4,1,11,1,3
+204,MrRoach,China,C++,2012,Qual,197,Dancing With the Googlers,Small,,55,32,,,40,35,5,0,13,8,6,1,21,1,7
+205,MrRoach,China,C++,2012,Qual,197,Dancing With the Googlers,Large,,56,58,,,40,35,5,0,13,8,6,1,21,1,7
+206,MrRoach,China,C++,2012,Qual,197,Recycled Numbers,Small,2,6,30,,,42,35,3,0,12,8,12,1,26,1,9
+207,MrRoach,China,C++,2012,Qual,197,Recycled Numbers,Large,2,8,3,,,42,35,3,0,12,8,12,1,26,1,9
+208,MrRoach,China,C++,2012,Qual,197,Hall of Mirrors,Small,3,5,38,,,68,55,3,0,42,14,10,1,43,1,21
+209,MrRoach,China,C++,2012,1A,2019,Password Problem,Small,,32,58,,,35,30,11,0,9,5,3,1,16,1,5
+210,MrRoach,China,C++,2012,1A,2019,Password Problem,Large,,34,10,,,35,30,11,0,9,5,3,1,16,1,5
+211,MrRoach,China,C++,2012,1B,576,Safety in Numbers,Small,,43,2,,,57,49,11,0,17,9,10,1,34,1,10
+212,MrRoach,China,C++,2012,1B,576,Safety in Numbers,Large,,43,51,,,57,49,11,0,17,9,10,1,34,1,10
+213,MrRoach,China,C++,2012,1B,576,"Tide Goes In, Tide Goes Out",Small,2,12,37,,,102,97,11,0,40,17,58,4,14.75,4.75,7.25
+214,MrRoach,China,C++,2012,1B,576,"Tide Goes In, Tide Goes Out",Large,2,14,5,,,102,97,11,0,40,17,58,4,14.75,4.75,7.25
+215,MrRoach,China,C++,2012,2,334,Swinging Wild,Small,,35,33,,,46,37,4,0,13,9,23,1,27,1,13
+216,MrRoach,China,C++,2012,2,334,Swinging Wild,Large,,37,12,,,46,37,4,0,13,9,23,1,27,1,13
+217,MrRoach,China,C++,2012,2,334,Aerobics,Small,1,7,39,,,59,46,5,0,16,14,34,1,34,1,15
+218,MrRoach,China,C++,2012,2,334,Aerobics,Large,1,9,10,,,59,46,5,0,16,14,34,1,34,1,15
+219,MrRoach,China,C++,2012,3,155,Perfect Game,Small,,21,19,,,40,32,5,0,10,8,19,1,21,1,8
+220,MrRoach,China,C++,2012,3,155,Perfect Game,Large,,22,7,,,40,32,5,0,10,8,19,1,21,1,8
+221,MrRoach,China,C++,2012,3,155,Lost Password,Small,1,36,41,,,48,40,6,9,12,8,26,1,28,1,9
+222,angwuy,China,C++,2012,Qual,2977,Speaking in Tongues,Small,3,23,44,,,32,26,2,0,12,4,7,2,7.5,1,3
+223,angwuy,China,C++,2012,Qual,2977,Dancing With the Googlers,Small,4,7,13,,,59,45,2,0,36,8,51,4,8.5,1.5,3.75
+224,angwuy,China,C++,2012,Qual,2977,Dancing With the Googlers,Large,4,8,45,,,59,45,2,0,36,8,51,4,8.5,1.5,3.75
+225,angwuy,China,C++,2012,Qual,2977,Recycled Numbers,Small,13,36,55,,,68,48,2,0,38,11,26,6,6.33,1.67,3.17
+226,angwuy,China,C++,2012,Qual,2977,Recycled Numbers,Large,13,40,3,,,70,50,2,0,40,11,26,6,6.33,1.67,3.17
+227,angwuy,China,C++,2012,1A,295,Password Problem,Small,,21,6,,,37,27,3,0,18,6,7,4,4.5,1.5,2
+228,angwuy,China,C++,2012,1A,295,Password Problem,Large,,22,4,,,39,29,3,0,20,6,7,4,4.5,1.5,2
+229,angwuy,China,C++,2012,1A,295,Kingdom Rush,Small,,48,17,,,64,48,3,0,24,8,15,3,12.67,1,5
+230,angwuy,China,C++,2012,1A,295,Kingdom Rush,Large,1,5,52,,,64,48,3,0,24,8,15,3,12.67,1,5
+231,angwuy,China,C++,2012,2,92,Swinging Wild,Small,,25,57,,,49,37,2,0,27,7,25,5,5.4,1.6,2.6
+232,angwuy,China,C++,2012,2,92,Swinging Wild,Large,,28,15,,,52,40,4,0,23,6,7,5,5.6,1.6,2.6
+233,angwuy,China,C++,2012,2,92,Aerobics,Small,1,3,20,,,50,38,2,0,28,7,25,3,9.33,1,3.67
+234,angwuy,China,C++,2012,2,92,Aerobics,Large,1,26,9,,,50,38,2,0,28,7,25,5,5.6,1.6,2.6
+235,angwuy,China,C++,2012,2,92,Mountain View,Small,2,6,26,,,108,74,2,0,65,17,25,5,5.6,1.6,2.6
+236,angwuy,China,C++,2012,2,92,Mountain View,Large,2,26,2,,,113,79,4,0,70,17,25,9,6.8,4.11,2.89
+237,angwuy,China,C++,2012,3,164,Perfect Game,Small,,10,27,,,41,32,4,0,18,5,5,3,6.33,2,3
+238,angwuy,China,C++,2012,3,164,Perfect Game,Large,,11,7,,,41,32,4,0,18,5,5,3,6.33,2,3
+239,angwuy,China,C++,2012,3,164,Lost Password,Small,2,17,19,,,73,57,2,0,40,8,35,4,11.5,1.75,5.75
+240,ZhukovDmitry,Russia,C++,2012,Qual,4088,Speaking in Tongues,Small,8,29,51,,,101,95,33,15,74,5,39,3,16,1.67,1.33
+241,ZhukovDmitry,Russia,C++,2012,Qual,4088,Dancing With the Googlers,Small,8,49,49,,,105,87,33,24,88,11,29,3,12.67,1.67,2
+242,ZhukovDmitry,Russia,C++,2012,Qual,4088,Speaking in Tongues,Large,8,50,40,,,105,87,33,24,88,11,29,3,12.67,1.67,2
+243,ZhukovDmitry,Russia,C++,2012,Qual,4088,Recycled Numbers,Small,18,32,41,,,103,87,24,11,73,10,12,3,15,1.67,3
+244,ZhukovDmitry,Russia,C++,2012,Qual,4088,Recycled Numbers,Large,18,33,10,,,103,87,24,11,73,10,12,3,15,1.67,3
+245,ZhukovDmitry,Russia,C++,2012,1B,5,Safety in Numbers,Small,,8,43,,,83,71,24,11,63,8,6,3,10,1.67,2
+246,ZhukovDmitry,Russia,C++,2012,1B,5,Safety in Numbers,Large,,9,10,,,83,71,24,11,63,8,6,3,10,1.67,2
+247,ZhukovDmitry,Russia,C++,2012,1B,5,"Tide Goes In, Tide Goes Out",Small,,46,56,,,160,120,24,11,87,24,82,3,24,1.67,7.67
+248,ZhukovDmitry,Russia,C++,2012,1B,5,"Tide Goes In, Tide Goes Out",Large,,47,27,,,160,120,24,11,87,24,82,3,24,1.67,7.67
+249,ZhukovDmitry,Russia,C++,2012,1B,5,Equal Sums,Small,,59,19,,,111,85,24,11,77,15,9,3,14.33,1.67,3.33
+250,ZhukovDmitry,Russia,C++,2012,1B,5,Equal Sums,Large,1,14,24,,,129,99,24,11,84,17,34,4,13,2,3
+251,ZhukovDmitry,Russia,C++,2012,2,24,Swinging Wild,Small,,23,25,,,89,77,24,11,64,8,22,3,11.33,1.67,2.67
+252,ZhukovDmitry,Russia,C++,2012,2,24,Swinging Wild,Large,,24,7,,,89,77,24,11,64,8,22,3,11.33,1.67,2.67
+253,ZhukovDmitry,Russia,C++,2012,2,24,Aerobics,Small,,58,23,,,147,119,24,11,84,16,85,4,18.5,2,4.75
+254,ZhukovDmitry,Russia,C++,2012,2,24,Aerobics,Large,,59,35,,,147,119,24,11,84,16,85,4,18.5,2,4.75
+255,ZhukovDmitry,Russia,C++,2012,2,24,Mountain View,Small,1,28,54,,,126,102,24,11,73,16,12,5,11.2,3,2.4
+256,ZhukovDmitry,Russia,C++,2012,2,24,Mountain View,Large,1,29,39,,,126,102,24,11,73,16,12,5,11.2,3,2.4
+257,ZhukovDmitry,Russia,C++,2012,2,24,Descending in the Dark,Small,2,26,33,,,240,162,24,11,140,43,69,6,17.67,1.33,2.67
+258,ZhukovDmitry,Russia,C++,2012,3,165,Perfect Game,Large,,10,41,,,84,70,24,11,69,9,15,5,5,2.6,1
+259,ZhukovDmitry,Russia,C++,2012,3,165,Perfect Game,Small,,11,21,,,84,70,24,11,69,9,15,5,5,2.6,1
+260,ZhukovDmitry,Russia,C++,2012,3,165,Lost Password,Small,2,20,50,,,149,117,24,11,80,18,64,4,16.75,2,2.75
+261,meret,Poland,C++,2012,Final,1,Zombie Smash,Small,,38,34,,,102,86,31,27,78,16,23,3,14.33,1.67,4.33
+262,meret,Poland,C++,2012,Final,1,Zombie Smash,Large,,39,46,,,102,86,31,27,78,16,23,3,14.33,1.67,4.33
+263,meret,Poland,C++,2012,Final,1,Upstairs/Downstairs,Small,1,5,1,,,91,79,31,18,65,10,22,2,21.5,1,4
+264,meret,Poland,C++,2012,Final,1,Upstairs/Downstairs,Large,1,6,47,,,91,79,31,18,65,10,22,2,21.5,1,4
+265,meret,Poland,C++,2012,Final,1,Xeno-archaeology,Small,2,25,56,,,80,69,31,18,66,13,3,2,14.5,1,7.5
+266,meret,Poland,C++,2012,Final,1,Twirling Towards Freedom,Small,2,3,41,,,166,139,36,23,125,32,24,10,8.9,1,2.8
+267,meret,Poland,C++,2012,Final,1,Twirling Towards Freedom,Large,2,5,17,,,166,139,36,23,125,32,24,10,8.9,1,2.8
+268,meret,Poland,C++,2012,Final,1,Shifting Paths,Small,2,15,40,,,79,70,31,18,52,9,20,2,15,2.5,4.5
+269,SnapDragon,Canada,C++,2012,Final,8,Zombie Smash,Small,,15,22,,,35,30,8,0,19,5,20,2,9.5,2.5,4.5
+270,SnapDragon,Canada,C++,2012,Final,8,Zombie Smash,Large,,16,13,,,35,30,8,0,19,5,20,2,9.5,2.5,4.5
+271,SnapDragon,Canada,C++,2012,Final,8,Upstairs/Downstairs,Small,1,43,20,,,55,47,7,0,43,10,10,2,18.5,1.5,6
+272,SnapDragon,Canada,C++,2012,Final,8,Xeno-archaeology,Small,3,3,3,,,49,41,8,0,25,11,6,4,6.75,2.5,5
+273,SnapDragon,Canada,C++,2012,Final,8,Xeno-archaeology,Large,3,16,42,,,87,76,8,0,75,16,21,4,15.5,2.5,12.75
+274,SnapDragon,Canada,C++,2012,Final,8,Twirling Towards Freedom,Small,3,42,28,,,38,34,8,0,20,5,10,3,6.33,2.67,3.33
+275,SnapDragon,Canada,C++,2012,Final,8,Shifting Paths,Small,1,9,10,,,77,67,8,0,46,14,68,2,27.5,2.5,10.5
+276,g201513,China,C++,2012,Final,11,Zombie Smash,Small,,23,52,,,76,65,12,0,35,13,32,4,9.75,3.25,4.25
+277,g201513,China,C++,2012,Final,11,Zombie Smash,Large,,25,1,,,76,65,12,0,35,13,32,4,9.75,3.25,4.25
+278,g201513,China,C++,2012,Final,11,Upstairs/Downstairs,Small,1,31,34,,,69,61,12,0,24,9,40,2,17.5,2,4
+279,g201513,China,C++,2012,Final,11,Upstairs/Downstairs,Large,1,33,6,,,70,62,12,0,25,9,40,2,18,2,4
+280,g201513,China,C++,2012,Final,11,Xeno-archaeology,Small,2,33,38,,,65,55,12,0,36,11,11,3,11.67,4.33,6
+281,g201513,China,C++,2012,Final,11,Twirling Towards Freedom,Small,2,24,44,,,85,71,12,9,49,15,21,5,9.4,3,4
+282,g201513,China,C++,2012,Final,11,Shifting Paths,Small,1,41,20,,,47,43,12,0,22,4,18,2,11.5,3.5,4
+283,Farmer.John,Hong Kong,C++,2012,Final,12,Zombie Smash,Small,,38,25,,,54,48,9,1,33,6,33,1,35,1,11
+284,Farmer.John,Hong Kong,C++,2012,Final,12,Zombie Smash,Large,,42,7,,,54,48,9,1,33,6,33,1,35,1,11
+285,Farmer.John,Hong Kong,C++,2012,Final,12,Upstairs/Downstairs,Small,1,41,27,,,53,48,9,1,24,5,19,2,17.5,1,3
+286,Farmer.John,Hong Kong,C++,2012,Final,12,Upstairs/Downstairs,Large,2,31,33,,,78,72,9,1,38,6,54,3,19.67,2.33,3.67
+287,Farmer.John,Hong Kong,C++,2012,Final,12,Xeno-archaeology,Small,3,19,30,,,54,47,9,1,26,7,10,2,16.5,2.5,5.5
+288,Farmer.John,Hong Kong,C++,2012,Final,12,Twirling Towards Freedom,Small,3,,40,,,77,65,12,4,52,12,10,10,4.2,3,1.4
+289,Farmer.John,Hong Kong,C++,2012,Final,12,Shifting Paths,Small,,22,19,,,40,37,9,1,16,3,12,1,24,1,5
+290,Ahyangyi,China,C++,2012,Final,13,Zombie Smash,Small,,41,7,,,80,59,2,0,29,11,53,3,15,2.33,5.67
+291,Ahyangyi,China,C++,2012,Final,13,Zombie Smash,Large,,48,39,,,109,78,3,0,45,16,79,3,20.67,2.33,8.33
+292,Ahyangyi,China,C++,2012,Final,13,Upstairs/Downstairs,Small,1,20,13,,,49,39,2,0,22,5,29,1,31,1,10
+293,Ahyangyi,China,C++,2012,Final,13,Upstairs/Downstairs,Large,1,22,9,,,49,39,2,0,22,5,29,1,31,1,10
+294,Ahyangyi,China,C++,2012,Final,13,Xeno-archaeology,Small,3,6,43,,,52,34,2,0,24,9,7,1,26,1,14
+295,Ahyangyi,China,C++,2012,Final,13,Twirling Towards Freedom,Small,2,55,17,,,148,105,4,1,92,24,124,4,20.75,2,8
+296,Ahyangyi,China,C++,2012,Final,13,Shifting Paths,Small,3,47,18,,,44,32,2,0,16,6,12,1,26,1,7
+297,gawry,Poland,C++,2012,Final,17,Zombie Smash,Small,1,10,14,,,62,56,15,4,47,8,36,3,11,1.67,3
+298,gawry,Poland,C++,2012,Final,17,Zombie Smash,Large,1,11,47,,,64,58,16,4,48,8,36,3,11,1.67,3
+299,gawry,Poland,C++,2012,Final,17,Xeno-archaeology,Small,2,41,21,,,59,52,14,3,60,7,23,3,10.67,1.67,6.67
+300,gawry,Poland,C++,2012,Final,17,Xeno-archaeology,Large,3,37,56,,,73,63,14,3,76,10,25,4,10.5,2.5,7
+301,gawry,Poland,C++,2012,Final,17,Shifting Paths,Small,,13,55,,,50,44,14,12,32,6,20,3,8,2,2.67
+302,Eryx,Poland,C++,2012,Final,23,Zombie Smash,Small,,51,13,,,128,116,40,29,182,23,38,9,7.11,1.78,3.56
+303,Eryx,Poland,C++,2012,Final,23,Zombie Smash,Large,,52,4,,,128,116,40,29,182,23,38,9,7.11,1.78,3.56
+304,Eryx,Poland,C++,2012,Final,23,Xeno-archaeology,Small,3,35,37,,,122,108,40,30,167,22,14,9,6.44,1.89,3.78
+305,Eryx,Poland,C++,2012,Final,23,Twirling Towards Freedom,Small,3,19,12,,,244,210,39,29,275,46,78,15,10.07,2.47,3.33
+306,Eryx,Poland,C++,2012,Final,23,Shifting Paths,Small,3,42,14,,,105,95,40,30,151,18,13,8,5.75,1.75,2.75
+307,misof,Slovakia,C++,2012,Final,3,Zombie Smash,Small,,46,50,,,59,55,20,3,42,9,13,4,7.5,2.75,2.25
+308,misof,Slovakia,C++,2012,Final,3,Zombie Smash,Large,,50,9,,,65,57,20,3,51,12,27,4,8,2.75,4.5
+309,misof,Slovakia,C++,2012,Final,3,Upstairs/Downstairs,Small,2,20,28,,,58,53,19,2,49,5,9,1,30,1,3
+310,misof,Slovakia,C++,2012,Final,3,Upstairs/Downstairs,Large,2,33,9,,,66,57,19,2,40,11,7,2,17,3,6
+311,misof,Slovakia,C++,2012,Final,3,Xeno-archaeology,Small,1,1,41,,,66,57,19,2,40,11,7,2,17,3,6
+312,misof,Slovakia,C++,2012,Final,3,Xeno-archaeology,Large,1,42,10,,,101,85,22,5,97,23,15,3,19.67,6,10.67
+313,misof,Slovakia,C++,2012,Final,3,Twirling Towards Freedom,Small,2,56,27,,,97,88,21,4,165,25,15,19,3.42,3.26,2.53
+314,misof,Slovakia,C++,2012,Final,3,Shifting Paths,Small,,18,37,,,53,48,19,2,29,9,8,1,28,1,6
+315,misof,Slovakia,C++,2012,3,10,Perfect Game,Small,,28,2,,,40,37,19,2,25,5,3,2,8,3,3
+316,misof,Slovakia,C++,2012,3,10,Perfect Game,Large,,28,24,,,40,37,19,2,25,5,3,2,8,3,3
+317,misof,Slovakia,C++,2012,3,10,Lost Password,Small,,47,2,,,82,75,19,2,32,9,14,1,28,1,6
+318,misof,Slovakia,C++,2012,3,10,Lost Password,Large,1,51,30,,,195,178,21,3,201,28,67,11,10.36,3.18,4.45
+319,misof,Slovakia,C++,2012,2,20,Swinging Wild,Small,,23,11,,,40,37,19,2,35,3,18,1,17,1,8
+320,misof,Slovakia,C++,2012,2,20,Swinging Wild,Large,,23,54,,,40,37,19,2,35,3,18,1,17,1,8
+321,misof,Slovakia,C++,2012,2,20,Aerobics,Small,1,23,2,,,66,58,19,11,54,12,16,3,11.67,1.67,5.67
+322,misof,Slovakia,C++,2012,2,20,Aerobics,Large,1,24,59,,,66,58,19,2,54,12,16,3,11.67,1.67,5.67
+323,misof,Slovakia,C++,2012,2,20,Mountain View,Small,,55,27,,,55,50,18,1,38,7,13,2,15,3.5,6.5
+324,misof,Slovakia,C++,2012,2,20,Mountain View,Large,,56,12,,,55,50,18,1,38,7,13,2,15,3.5,6.5
+325,misof,Slovakia,C++,2012,2,20,Descending in the Dark,Small,2,10,58,,,93,83,20,3,79,15,41,3,18.33,3.33,8.33
+326,misof,Slovakia,C++,2012,1A,95,Kingdom Rush,Small,,37,27,,,43,37,2,0,23,10,9,2,17,2.5,8.5
+327,misof,Slovakia,C++,2012,1A,95,Kingdom Rush,Large,,38,2,,,43,37,2,0,23,10,9,2,17,2.5,8.5
+328,vepifanov,Russia,C++,2012,Qual,4191,Speaking in Tongues,Small,18,49,30,,,57,55,28,13,35,3,5,2,7,1.5,3
+329,vepifanov,Russia,C++,2012,Qual,4191,Dancing With the Googlers,Small,18,53,34,,,53,49,24,11,28,5,0,2,7.5,1.5,4
+330,vepifanov,Russia,C++,2012,Qual,4191,Dancing With the Googlers,Large,18,53,58,,,53,49,24,11,28,5,0,2,7.5,1.5,4
+331,vepifanov,Russia,C++,2012,Qual,4191,Recycled Numbers,Small,18,57,34,,,62,56,24,11,27,6,3,2,10,1.5,5.5
+332,vepifanov,Russia,C++,2012,Qual,4191,Recycled Numbers,Large,18,59,10,,,62,56,24,11,27,6,3,2,10,1.5,5.5
+333,vepifanov,Russia,C++,2012,1B,38,Safety in Numbers,Small,,8,29,,,69,64,28,13,37,6,5,2,12,1.5,5
+334,vepifanov,Russia,C++,2012,1B,38,Safety in Numbers,Large,,9,41,,,69,64,28,13,37,6,5,2,12,1.5,5
+335,vepifanov,Russia,C++,2012,1B,38,"Tide Goes In, Tide Goes Out",Small,,41,49,,,113,103,28,13,79,11,63,3,19,3,10
+336,vepifanov,Russia,C++,2012,1B,38,"Tide Goes In, Tide Goes Out",Large,,42,31,,,113,103,28,13,79,11,63,3,19,3,10
+337,vepifanov,Russia,C++,2012,1B,38,Equal Sums,Small,,19,21,,,74,71,28,13,48,5,9,2,15,1.5,7
+338,vepifanov,Russia,C++,2012,1B,38,Equal Sums,Large,1,32,40,,,103,95,28,13,57,10,19,2,25.5,1.5,9.5
+339,vepifanov,Russia,C++,2012,2,38,Swinging Wild,Small,,13,40,,,66,62,28,13,39,5,18,2,11,1.5,5
+340,vepifanov,Russia,C++,2012,2,38,Swinging Wild,Large,,14,12,,,66,62,28,13,39,5,18,2,11,1.5,5
+341,vepifanov,Russia,C++,2012,2,38,Aerobics,Small,1,20,18,,,85,79,28,22,39,7,24,2,18.5,1.5,6
+342,vepifanov,Russia,C++,2012,2,38,Aerobics,Large,1,22,13,,,85,79,28,22,39,7,24,2,18.5,1.5,6
+343,vepifanov,Russia,C++,2012,2,38,Mountain View,Small,1,50,20,,,101,91,28,13,63,12,32,4,12.5,3,6.25
+344,vepifanov,Russia,C++,2012,2,38,Mountain View,Large,1,51,16,,,101,91,28,13,63,12,32,4,12.5,3,6.25
+345,vepifanov,Russia,C++,2012,3,17,Perfect Game,Small,,12,40,,,67,63,28,13,52,5,19,3,7,2,4
+346,vepifanov,Russia,C++,2012,3,17,Perfect Game,Large,,13,34,,,67,63,28,13,52,5,19,3,7,2,4
+347,vepifanov,Russia,C++,2012,3,17,Havannah,Small,1,10,25,,,182,165,28,13,132,21,144,5,22.2,2.4,11
+348,vepifanov,Russia,C++,2012,3,17,Havannah,Large,1,16,9,,,193,174,28,13,134,23,151,5,23.8,2.4,11.2
+349,vepifanov,Russia,C++,2012,3,17,Quality Food,Small,2,14,45,,,80,74,28,13,47,7,27,2,15,1.5,7.5
+350,vepifanov,Russia,C++,2012,3,17,Lost Password,Small,1,54,28,,,115,104,28,13,75,12,42,4,15,1.75,8.5
+351,vepifanov,Russia,C++,2012,Final,4,Zombie Smash,Small,,34,29,,,86,79,28,13,60,8,39,3,12,2.67,5.67
+352,vepifanov,Russia,C++,2012,Final,4,Zombie Smash,Large,,35,24,,,86,79,28,13,60,8,39,3,12,2.67,5.67
+353,vepifanov,Russia,C++,2012,Final,4,Upstairs/Downstairs,Small,1,27,33,,,83,78,30,15,51,6,25,2,17.5,1.5,4
+354,vepifanov,Russia,C++,2012,Final,4,Upstairs/Downstairs,Large,1,30,26,,,83,78,30,15,51,6,25,2,17.5,1.5,4
+355,vepifanov,Russia,C++,2012,Final,4,Xeno-archaeology,Small,1,42,47,,,79,73,28,13,59,8,9,3,10.33,2,5
+356,vepifanov,Russia,C++,2012,Final,4,Xeno-archaeology,Large,3,34,3,,,169,153,28,13,133,20,133,6,17.5,4.33,7.5
+357,vepifanov,Russia,C++,2012,Final,4,Twirling Towards Freedom,Small,2,19,6,,,92,85,28,13,66,9,20,4,10.25,2.75,3.25
+358,vepifanov,Russia,C++,2012,Final,4,Shifting Paths,Small,,42,29,,,69,66,28,13,45,5,12,2,12.5,1.5,4.5
+359,bmerry,South Africa,C++,2012,Qual,104,Speaking in Tongues,Small,6,52,5,,,101,85,25,3,80,15,24,4,12.5,4.25,5
+360,bmerry,South Africa,C++,2012,Qual,104,Dancing With the Googlers,Small,7,5,17,,,82,66,25,3,62,15,8,4,7.75,4.25,4.75
+361,bmerry,South Africa,C++,2012,Qual,104,Dancing With the Googlers,Large,7,5,41,,,82,66,25,3,62,15,8,4,7.75,4.25,4.75
+362,bmerry,South Africa,C++,2012,Qual,104,Recycled Numbers,Small,7,11,47,,,85,70,25,3,65,15,8,4,8.75,4.25,4.75
+363,bmerry,South Africa,C++,2012,Qual,104,Recycled Numbers,Large,7,12,34,,,85,70,25,3,65,15,8,4,8.75,4.25,4.75
+364,bmerry,South Africa,C++,2012,Qual,104,Hall of Mirrors,Small,19,30,21,,,184,142,25,3,114,31,22,7,14.71,3.86,6.29
+365,bmerry,South Africa,C++,2012,Qual,104,Hall of Mirrors,Large,19,34,1,,,184,142,25,3,114,31,22,7,14.71,3.86,6.29
+366,bmerry,South Africa,C++,2012,1B,2,Safety in Numbers,Small,,16,7,,,103,85,25,3,74,16,11,4,12.5,4.75,6
+367,bmerry,South Africa,C++,2012,1B,2,Safety in Numbers,Large,,16,27,,,103,85,25,3,74,16,11,4,12.5,4.75,6
+368,bmerry,South Africa,C++,2012,1B,2,"Tide Goes In, Tide Goes Out",Small,,33,55,,,146,116,25,3,104,26,37,9,7.78,3.89,4.11
+369,bmerry,South Africa,C++,2012,1B,2,"Tide Goes In, Tide Goes Out",Large,,34,38,,,146,116,25,3,104,26,37,9,7.78,3.89,4.11
+370,bmerry,South Africa,C++,2012,1B,2,Equal Sums,Small,,40,7,,,114,92,25,3,83,18,13,6,9.17,4,4.17
+371,bmerry,South Africa,C++,2012,1B,2,Equal Sums,Large,1,4,41,,,131,107,28,3,89,19,19,6,10.83,4,4.83
+372,bmerry,South Africa,C++,2012,2,97,Swinging Wild,Small,,11,18,,,95,77,25,3,70,16,22,4,10.25,4.25,5
+373,bmerry,South Africa,C++,2012,2,97,Swinging Wild,Large,,11,41,,,95,77,25,3,70,16,22,4,10.25,4.25,5
+374,bmerry,South Africa,C++,2012,2,97,Aerobics,Small,1,13,37,,,149,119,25,3,98,23,23,6,13,5,6
+375,bmerry,South Africa,C++,2012,2,97,Aerobics,Large,1,14,5,,,149,119,25,3,98,23,23,6,13,5,6
+376,bmerry,South Africa,C++,2012,2,97,Mountain View,Small,,37,39,,,127,103,25,3,97,19,27,6,11,4.17,4
+377,bmerry,South Africa,C++,2012,2,97,Descending in the Dark,Small,1,40,28,,,188,142,25,3,113,32,47,4,25.25,4.25,11.75
+378,bmerry,South Africa,C++,2012,3,5,Perfect Game,Small,,10,1,,,95,77,25,3,76,18,11,7,5.29,3.43,2.86
+379,bmerry,South Africa,C++,2012,3,5,Perfect Game,Large,,10,36,,,95,77,25,3,76,18,11,7,5.29,3.43,2.86
+380,bmerry,South Africa,C++,2012,3,5,Havannah,Small,2,8,55,,,265,219,25,3,160,34,61,9,18.89,5,8.22
+381,bmerry,South Africa,C++,2012,3,5,Havannah,Large,2,15,39,,,264,218,25,12,157,34,68,9,18.78,5,8
+382,bmerry,South Africa,C++,2012,3,5,Lost Password,Small,,59,14,,,130,104,25,3,86,22,41,5,13.6,4.6,6
+383,bmerry,South Africa,C++,2012,Final,6,Zombie Smash,Small,1,25,48,,,117,87,25,3,88,24,27,7,6.57,3.86,3.71
+384,bmerry,South Africa,C++,2012,Final,6,Zombie Smash,Large,1,26,36,,,117,87,25,3,88,24,27,7,6.57,3.86,3.71
+385,bmerry,South Africa,C++,2012,Final,6,Upstairs/Downstairs,Small,1,59,,,,102,82,25,3,80,17,32,4,11.75,4.25,5
+386,bmerry,South Africa,C++,2012,Final,6,Upstairs/Downstairs,Large,2,4,39,,,105,83,25,3,79,18,32,4,11.75,4.25,5
+387,bmerry,South Africa,C++,2012,Final,6,Twirling Towards Freedom,Small,1,,29,,,164,124,25,3,118,29,22,9,8.89,3.78,4.22
+388,bmerry,South Africa,C++,2012,Final,6,Twirling Towards Freedom,Large,1,9,26,,,176,132,25,3,124,31,26,9,9.78,3.78,4.56
+389,bmerry,South Africa,C++,2012,Final,6,Shifting Paths,Small,2,9,59,,,100,84,25,3,70,15,22,4,12.25,4.5,5
+390,exod40,Bulgaria,C++,2012,Qual,6980,Dancing With the Googlers,Small,14,16,48,,,54,41,3,0,30,14,7,4,8.5,2.25,4.25
+391,exod40,Bulgaria,C++,2012,Qual,6980,Dancing With the Googlers,Large,14,17,12,,,54,41,3,0,30,14,7,4,8.5,2.25,4.25
+392,exod40,Bulgaria,C++,2012,Qual,6980,Recycled Numbers,Small,14,42,34,,,49,39,3,0,20,10,5,3,10.67,1,4.33
+393,exod40,Bulgaria,C++,2012,Qual,6980,Recycled Numbers,Large,14,43,24,,,49,39,3,0,20,10,5,3,10.67,1,4.33
+394,exod40,Bulgaria,C++,2012,1A,128,Password Problem,Small,,13,1,,,32,26,2,0,19,6,9,3,7,1,2
+395,exod40,Bulgaria,C++,2012,1A,128,Password Problem,Large,,13,38,,,32,26,2,0,19,6,9,3,7,1,2
+396,exod40,Bulgaria,C++,2012,1A,128,Kingdom Rush,Small,,41,9,,,65,50,1,0,24,15,18,3,15.67,1,6.67
+397,exod40,Bulgaria,C++,2012,1A,128,Kingdom Rush,Large,,41,53,,,65,50,1,0,24,15,18,3,15.67,1,6.67
+398,exod40,Bulgaria,C++,2012,2,141,Swinging Wild,Small,,12,24,,,47,36,2,0,20,12,20,3,9.67,1.33,4
+399,exod40,Bulgaria,C++,2012,2,141,Swinging Wild,Large,,12,58,,,47,36,2,0,20,12,20,3,9.67,1.33,4
+400,exod40,Bulgaria,C++,2012,2,141,Aerobics,Small,1,46,51,,,103,78,3,0,64,26,55,5,13.8,1.4,6.6
+401,exod40,Bulgaria,C++,2012,2,141,Aerobics,Large,1,49,14,,,108,84,3,9,66,26,55,5,13.8,1.4,6.6
+402,exod40,Bulgaria,C++,2012,2,141,Mountain View,Small,1,9,37,,,80,64,3,0,61,19,21,3,18.33,1.33,6.33
+403,exod40,Bulgaria,C++,2012,3,31,Perfect Game,Small,,14,13,,,34,28,2,0,18,6,9,3,7,1,3
+404,exod40,Bulgaria,C++,2012,3,31,Havannah,Small,1,28,19,,,243,182,4,0,156,62,154,11,14.73,2.55,8.09
+405,exod40,Bulgaria,C++,2012,3,31,Havannah,Large,1,36,16,,,248,187,4,0,161,62,154,11,15.18,2.55,8.09
+406,exod40,Bulgaria,C++,2012,3,31,Quality Food,Small,2,28,28,,,69,58,3,0,36,11,32,4,12.76,1.75,4
+407,exod40,Bulgaria,C++,2012,3,31,Lost Password,Small,2,1,9,,,63,51,5,0,43,12,30,5,8,1.8,3.4
+408,exod40,Bulgaria,C++,2012,Final,14,Zombie Smash,Small,,30,36,,,58,45,3,0,34,13,37,3,12.33,1,5.67
+409,exod40,Bulgaria,C++,2012,Final,14,Zombie Smash,Large,,31,21,,,58,45,3,0,34,13,37,3,12.33,1,5.67
+410,exod40,Bulgaria,C++,2012,Final,14,Upstairs/Downstairs,Small,1,21,21,,,64,51,3,0,42,14,12,4,10.5,1.75,3.5
+411,exod40,Bulgaria,C++,2012,Final,14,Upstairs/Downstairs,Large,2,3,37,,,66,54,3,0,49,14,63,3,14.67,1,4.33
+412,exod40,Bulgaria,C++,2012,Final,14,Xeno-archaeology,Small,2,20,11,,,64,48,3,0,42,17,14,5,8,2,3.4
+413,exod40,Bulgaria,C++,2012,Final,14,Twirling Towards Freedom,Small,3,59,36,,,52,44,5,0,37,8,11,4,8.5,1.75,2.75
+414,exod40,Bulgaria,C++,2012,Final,14,Shifting Paths,Small,,11,3,,,49,40,2,0,23,10,14,3,11.67,1,3
+415,Burunduk1,Russia,C++,2012,Qual,1592,Speaking in Tongues,Small,6,39,30,,,22,18,1,0,11,2,6,1,12,1,4
+416,Burunduk1,Russia,C++,2012,Qual,1592,Dancing With the Googlers,Small,6,49,58,,,31,23,4,1,17,4,0,1,16,1,5
+417,Burunduk1,Russia,C++,2012,Qual,1592,Dancing With the Googlers,Large,6,50,19,,,31,23,4,1,17,4,0,1,16,1,5
+418,Burunduk1,Russia,C++,2012,Qual,1592,Recycled Numbers,Small,6,55,51,,,37,29,5,1,22,4,2,1,22,1,7
+419,Burunduk1,Russia,C++,2012,Qual,1592,Recycled Numbers,Large,6,56,43,,,38,30,5,1,23,4,2,1,22,1,7
+420,Burunduk1,Russia,C++,2012,1A,11,Password Problem,Small,1,27,12,,,121,107,51,21,122,14,11,11,3.73,2.27,1.45
+421,Burunduk1,Russia,C++,2012,1A,11,Password Problem,Large,1,27,33,,,121,107,51,21,122,14,11,11,3.73,2.27,1.45
+422,Burunduk1,Russia,C++,2012,1A,11,Kingdom Rush,Small,,21,14,,,151,129,50,20,131,18,28,11,5.82,2.27,2.73
+423,Burunduk1,Russia,C++,2012,1A,11,Kingdom Rush,Large,,21,47,,,151,129,50,20,131,18,28,11,5.82,2.27,2.73
+424,Burunduk1,Russia,C++,2012,1A,11,Cruise Control,Small,1,17,6,,,245,203,52,22,206,33,58,23,5.26,2.43,2.43
+425,Burunduk1,Russia,C++,2012,1A,11,Cruise Control,Large,2,9,5,,,267,217,52,22,214,37,72,24,5.67,2.38,2.75
+426,Burunduk1,Russia,C++,2012,2,14,Swinging Wild,Small,1,1,37,,,139,121,51,21,138,16,22,12,4.58,2.42,1.83
+427,Burunduk1,Russia,C++,2012,2,14,Swinging Wild,Large,1,2,16,,,140,122,51,21,139,16,22,12,4.67,2.42,1.83
+428,Burunduk1,Russia,C++,2012,2,14,Aerobics,Small,,46,45,,,182,28,51,21,167,22,44,14,6.21,2.64,2.64
+429,Burunduk1,Russia,C++,2012,2,14,Aerobics,Large,,47,30,,,182,28,51,21,167,22,44,14,6.21,2.64,2.64
+430,Burunduk1,Russia,C++,2012,2,14,Mountain View,Small,2,1,38,,,159,135,51,21,150,19,22,13,5.23,2.54,2
+431,Burunduk1,Russia,C++,2012,2,14,Mountain View,Large,2,2,6,,,159,135,51,21,150,19,22,13,5.23,2.54,2
+432,Burunduk1,Russia,C++,2012,2,14,Descending in the Dark,Small,1,33,4,,,226,294,51,21,186,29,61,19,6.05,2.42,2.21
+433,Burunduk1,Russia,C++,2012,3,16,Perfect Game,Small,,15,25,,,140,122,54,24,145,16,19,13,3.92,2.46,1.62
+434,Burunduk1,Russia,C++,2012,3,16,Perfect Game,Large,,16,12,,,140,122,54,24,145,16,19,13,3.92,2.46,1.62
+435,Burunduk1,Russia,C++,2012,3,16,Havannah,Small,2,3,17,,,249,205,52,22,210,31,79,16,7.69,2.44,2.81
+436,Burunduk1,Russia,C++,2012,3,16,Havannah,Large,2,5,14,,,249,205,52,22,210,31,79,16,7.69,2.44,2.81
+437,Burunduk1,Russia,C++,2012,3,16,Quality Food,Small,1,16,53,,,158,132,52,22,147,20,28,13,4.85,2.46,1.62
+438,Burunduk1,Russia,C++,2012,3,16,Lost Password,Small,,34,29,,,179,153,53,23,161,20,38,14,5.71,2.43,1.93
+439,Burunduk1,Russia,C++,2012,Final,16,Zombie Smash,Small,1,13,47,,,146,127,52,22,143,17,19,12,4.92,2.42,1.67
+440,Burunduk1,Russia,C++,2012,Final,16,Upstairs/Downstairs,Small,1,37,20,,,179,151,52,22,157,21,29,14,5.71,2.43,1.57
+441,Burunduk1,Russia,C++,2012,Final,16,Xeno-archaeology,Small,1,8,30,,,153,131,52,31,158,18,13,12,5.25,2.42,2.58
+442,Burunduk1,Russia,C++,2012,Final,16,Xeno-archaeology,Large,3,19,43,,,266,216,52,22,243,33,81,21,6.29,2.81,2.67
+443,Burunduk1,Russia,C++,2012,Final,16,Twirling Towards Freedom,Small,3,26,50,,,202,172,54,22,189,35,68,28,3.39,2.21,1.61
+444,Burunduk1,Russia,C++,2012,Final,16,Shifting Paths,Small,,46,22,,,141,121,52,22,139,17,15,12,4.5,2.42,1.75
